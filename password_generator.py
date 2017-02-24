@@ -1,7 +1,7 @@
 import random
 
 
-#length of the password string
+# length of the password string
 char = random.randint(8, 12)
 letters = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h',
            'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p',
